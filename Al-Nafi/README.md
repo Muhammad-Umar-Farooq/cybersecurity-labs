@@ -6,6 +6,7 @@ The documentation focuses on practical skills, commands, configurations, and les
 
 ## Modules
 
+- Linux & Industrial Security Basics
 - VA - Vulnerability Assessment
 - WAPT - Web Application Penetration Testing
 - NPT - Network Penetration Testing
