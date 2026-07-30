@@ -10,11 +10,15 @@ Ubuntu Terminal Command Line Interface (CLI)
 
 ## Commands Used
 
-`ls`
-`ls -la`
-`pwd`
-`cd`
-`cd ..`
+`ls` = to list items in the current directory
+
+`ls -la` = listing files with hidden content, the hidden files start with a . (dot)
+
+`pwd` = to print working directory
+
+`cd` = used to change the current directory
+
+`cd ..` =   to move one step back towards the parent directory
 
 
 ## Results
