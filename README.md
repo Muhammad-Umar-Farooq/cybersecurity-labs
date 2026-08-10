@@ -24,6 +24,7 @@ This repository does **not** contain copyrighted course material, lab manuals, a
 cybersecurity-labs/
 │
 ├── AlNafi/
+│   ├── Linux_&_Industrial_Security_Basics/
 │   ├── VA/
 │   ├── WAPT/
 │   ├── NPT/
@@ -45,9 +46,7 @@ Each lab contains:
 
 - Objective
 - Tools Used
-- Commands Used
-- Findings
-- Lessons Learned
+- Commands Used/Lessons Learned
 - Permitted screenshots
 
 ## Disclaimer
